@@ -5,3 +5,5 @@ led ws2812b
 <img width="1484" height="843" alt="Снимок экрана 2026-03-08 в 23 10 56" src="https://github.com/user-attachments/assets/2c0ec153-50fc-43b4-8433-3ce368e6088e" />
 <img width="1634" height="843" alt="Снимок экрана 2026-03-08 в 23 11 10" src="https://github.com/user-attachments/assets/c5c68bdd-dc26-4b86-82fd-8a3ed873db45" />
 <img width="1701" height="787" alt="Снимок экрана 2026-03-08 в 23 11 26" src="https://github.com/user-attachments/assets/ec294cfb-b0a1-459f-8966-e1130ce7e1e4" />
+![IMG_0591](https://github.com/user-attachments/assets/7b7a9b2f-004c-4085-b9d5-51f36e719c5a)
+![IMG_20220822_191054](https://github.com/user-attachments/assets/6e6deb2b-33e1-4f40-bd5e-7967c3b1740c)
